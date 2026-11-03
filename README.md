@@ -22,7 +22,7 @@ Create and activate a virtual environment, then install the dependencies:
 ```bash
 python -m venv .venv
 # Windows PowerShell
-.venv\\Scripts\\Activate.ps1
+.venv\Scripts\Activate.ps1
 # macOS/Linux
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -73,3 +73,4 @@ main.py     Command-line app
 ## License
 
 No license has been selected yet. All rights remain with the author unless a license is added.
+
